@@ -26,14 +26,12 @@ Installation:
 Clone the repository:
 
 sh
-Copy code
 git clone https://github.com/yourusername/MJ-Mobile-Forensic.git
 cd MJ-Mobile-Forensic
 
 Install necessary Python packages:
 
 sh
-Copy code
 pip install magic
 
 Usage:
@@ -43,7 +41,6 @@ Connect your Android device to the computer via USB and ensure USB debugging is 
 Run the main script:
 
 sh
-Copy code
 ./mj_mobile_forensic.sh
 Follow the on-screen instructions and select the desired operation from the menu.
 
